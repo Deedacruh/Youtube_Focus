@@ -1,6 +1,4 @@
-// Note: I used chatgpt to generate this and will probably use it with the
-// other YouTube related variables and other things i need to manipulate
-// because I never learned how the website YT worked coding wise.
+
 {
   "manifest_version": 3,
   "name": "YouTube Focus",
