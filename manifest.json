@@ -13,7 +13,7 @@
   "content_scripts": [
     {
       "matches": ["https://www.youtube.com/*"],
-      "js": ["Youtube_Focus.js"]
+      "js": ["content.js"]
     }
   ]
 }
