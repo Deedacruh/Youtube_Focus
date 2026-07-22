@@ -4,6 +4,9 @@
 Youtube Focus is a project that reduces stimuli and fixes people's attention spans when watching Youtube. This extension is very dear to me due to me checking the comments when the video is running, and therefore ruining my attention from outer stimuli. This isn't just a problem for me though and many other people around the globe, and that is why I created this application to help others around me for free! 
 This project was made using html, css, javascript, and Manifest V3 for the chrome extension
 This project consists of 7 files
+What it does: turns the comments on if the video is paused, if not then the comments are off. This only happens if the toggle switch is set to enabled of course
+
+Also slightly meant to be paired with the other extension untrap to make Youtube much more optimal. That is just my personal opinion though. 
 
 '.giattributes' Used as a rulebook for Github.
 'README.md' For this project of course.
